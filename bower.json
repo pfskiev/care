@@ -1,0 +1,21 @@
+{
+  "name": "baby_care",
+  "homepage": "https://github.com/pfskiev/care",
+  "authors": [
+    "Constantine Podlesny"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
